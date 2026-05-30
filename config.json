@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpereecrypt",
+        "uuid": 2654840,
+        "checksum": "dohkgf"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
